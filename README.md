@@ -31,7 +31,24 @@ Open to collaborating on data-driven or full-stack projects
 
 ---
 
-##  Featured Project  
+##  Featured Projects
+
+## Business insights Dashboard – Power BI
+
+An interactive Power BI dashboard for analyzing and visualizing regional sales performance with advanced metrics and drill-down capabilities.
+
+###  Highlights
+- Dynamic filters for region, product category, and time
+- KPIs for revenue, profit margin, and growth trends
+- DAX-powered custom measures and calculated columns
+- Power Query for data transformation and cleaning
+- Published using **Power BI Service** with public access
+- Clean, responsive layout with slicers and tooltips
+
+ [Live Dashboard](https://app.powerbi.com/view?r=your-link-here)  
+ [GitHub Repository](https://github.com/YourUsername/YourRepo)
+
+
 
 ###  Medium Clone – Blogging Platform  
 A fully functional Medium-style blogging platform with full CRUD, authentication, and search features.
