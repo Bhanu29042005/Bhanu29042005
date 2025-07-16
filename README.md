@@ -45,8 +45,8 @@ An interactive Power BI dashboard for analyzing and visualizing regional sales p
 - Published using **Power BI Service** with public access
 - Clean, responsive layout with slicers and tooltips
 
- [Live Dashboard](https://app.powerbi.com/view?r=your-link-here)  
- [GitHub Repository](https://github.com/YourUsername/YourRepo)
+ [Live Dashboard]((https://github.com/Bhanu29042005/Business-Sales-dashboard))  
+ [GitHub Repository]((https://github.com/Bhanu29042005?tab=repositories))
 
 
 
@@ -62,7 +62,7 @@ A fully functional Medium-style blogging platform with full CRUD, authentication
 - Built with **React**, **TypeScript**, **Tailwind CSS**, **Node.js**
 
 [Live App](https://blogging-website-ppz3.vercel.app/)  
- [GitHub Repository](https://github.com/Bhanu29042005)
+ [GitHub Repository]((https://github.com/Bhanu29042005?tab=repositories))
 
 ---
 
