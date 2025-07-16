@@ -45,8 +45,7 @@ An interactive Power BI dashboard for analyzing and visualizing regional sales p
 - Published using **Power BI Service** with public access
 - Clean, responsive layout with slicers and tooltips
 
- [Live Dashboard](https://github.com/Bhanu29042005/Business-Sales-dashboard)
- [GitHub Repository](https://github.com/Bhanu29042005?tab=repositories)
+ [Live Dashboard](https://github.com/Bhanu29042005/Business-Sales-dashboard)                                                                                                      [GitHub Repository](https://github.com/Bhanu29042005?tab=repositories)
 
 
 
