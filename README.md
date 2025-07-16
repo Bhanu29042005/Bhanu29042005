@@ -50,10 +50,10 @@ A fully functional Medium-style blogging platform with full CRUD, authentication
 ---
 
 ##   Strengths  
-✔️ Problem-solving mindset focused on scalable solutions  
-✔️ Time management and task prioritization  
-✔️ Quick learner — always upgrading skills  
-✔️ Team player with strong collaboration skills
+ Problem-solving mindset focused on scalable solutions  
+ Time management and task prioritization  
+ Quick learner — always upgrading skills  
+ Team player with strong collaboration skills
 
 ---
 
